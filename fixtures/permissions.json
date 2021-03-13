@@ -1,0 +1,86 @@
+[
+    {
+      "model": "users.permission",
+      "pk": 1,
+      "fields": {
+        "name": "view_users"
+      }
+    },
+    {
+      "model": "users.permission",
+      "pk": 2,
+      "fields": {
+        "name": "edit_users"
+      }
+    },
+    {
+      "model": "users.permission",
+      "pk": 3,
+      "fields": {
+        "name": "view_roles"
+      }
+    },
+    {
+      "model": "users.permission",
+      "pk": 4,
+      "fields": {
+        "name": "edit_roles"
+      }
+    },
+    {
+      "model": "users.permission",
+      "pk": 5,
+      "fields": {
+        "name": "view_wings"
+      }
+    },
+    {
+      "model": "users.permission",
+      "pk": 6,
+      "fields": {
+        "name": "edit_wings"
+      }
+    },
+    {
+      "model": "users.permission",
+      "pk": 7,
+      "fields": {
+        "name": "view_computers"
+      }
+    },
+    {
+      "model": "users.permission",
+      "pk": 8,
+      "fields": {
+        "name": "edit_computers"
+      }
+    },
+    {
+      "model": "users.permission",
+      "pk": 9,
+      "fields": {
+        "name": "view_grantees"
+      }
+    },
+    {
+      "model": "users.permission",
+      "pk": 10,
+      "fields": {
+        "name": "edit_grantees"
+      }
+    },
+    {
+      "model": "users.permission",
+      "pk": 11,
+      "fields": {
+        "name": "view_networks"
+      }
+    },
+    {
+      "model": "users.permission",
+      "pk": 12,
+      "fields": {
+        "name": "edit_networks"
+      }
+    }
+  ]
